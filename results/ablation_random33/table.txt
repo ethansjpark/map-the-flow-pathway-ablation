@@ -1,0 +1,9 @@
+task                    condition             n accuracy% base-correct acc%     mean Δp% edges kept%
+03_Action Sequence      full                150     62.00            100.00         0.00      100.00
+03_Action Sequence      random              150     44.67             45.16       -49.83       33.30
+06_Object Count         full                148     52.70            100.00         0.00      100.00
+06_Object Count         random              148     23.65             20.51       -57.57       33.30
+08_Scene Transition     full                150     59.33            100.00         0.00      100.00
+08_Scene Transition     random              150     46.00             39.33       -54.26       33.30
+POOLED                  full                448     58.04            100.00         0.00      100.00
+POOLED                  random              448     38.17             35.77       -53.67       33.30
